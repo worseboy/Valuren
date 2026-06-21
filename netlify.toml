@@ -1,4 +1,1 @@
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# No redirects needed - plain HTML files work directly
